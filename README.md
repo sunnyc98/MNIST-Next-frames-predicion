@@ -1,4 +1,4 @@
-# Next-frames-predicion (Conv-LSTM)
+# Next-frames-predicion
 This code uses a Conv-LSTM network with convolutional encoder and decoders to train a model that inputs 5 previous frames, and uses them to predict the next 3 frames. 
 
 The ground truth and predicted images of the MNIST moving dataset is shown below:
